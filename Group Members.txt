@@ -1,0 +1,5 @@
+Arm Motion Replicator Using Electromyography (EMG)
+
+- Daniyal Shaukat Chaudhary (01-132202-009)
+- Aliza Khan (01-132202-047)
+- Ahsan Hayat Khan (01-132182-004)

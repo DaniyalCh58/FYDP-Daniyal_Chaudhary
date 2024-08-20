@@ -1,0 +1,11 @@
+1 S1 M 23 Left H
+2 S2 F 21 Right H
+3 S3 M 21 Left H
+4 S4 M 23 Left H
+5 S5 M 20 Right H
+6 S6 M 24 Right H
+7 S7 M 28 Left H
+8 S8 M 24 Right H
+9 S9 M 25 Right H
+10 Subhan M 21 Left H
+11 S10 M 21 Left H

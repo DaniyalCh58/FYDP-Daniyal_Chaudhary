@@ -1,0 +1,19 @@
+STEP 1:
+Filter 4 Gestures code (PY).txt
+(Use this code to Seperate Out Specific Gestures from 17)
+
+STEP 2:
+Gesture Code 2.m
+(Use this code to concatenate all 7 Trials of 1 Single Gesture of all 43 Participants
+%This code loads the Single Participant File and Merge all it's 7 Trials in
+%a single Matrix (Row and Column)
+
+STEP 3:
+Gesture Concatenation 3.m
+%This code Concatenates the all 4 gestures all 7 trials of all 43
+%participants specifically
+
+STEP 4:
+Labelling.m / String Labelling.m
+%labelling the Gestures NUMERICALLY 1,2,3,4
+%labelling the Gestures STRING
